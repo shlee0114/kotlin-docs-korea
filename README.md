@@ -4,7 +4,7 @@
 오역과 이상한 말이 많을 수 있으니 번역관련 부분은 PR로 부탁드립니다.
 
 1. [Get started](https://github.com/shlee0114/kotlin-docs-korea/tree/main/Get%20started)
-2. [Kotlin for server side]()
+2. [Kotlin for server side](https://github.com/shlee0114/kotlin-docs-korea/tree/main/Kotlin%20for%20server%20side)
 3. [What's new in Kotlin]()
 4. [Basics]()
 5. [Concepts]()
